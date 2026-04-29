@@ -92,6 +92,7 @@ CREATE TABLE layoffs (
 - **2022** – Inflation & Funding Crunch: Rising rates + VC slowdown → startups trimmed staff.
 - **2023** – Correction & Automation Restructuring: Big tech downsized, automation replaced repetitive roles.
 
+For getiing to know reason behinf this layoff read file: [Layoffs Reasons]
 ## 📈 Insights
 
 - Industries most affected: Tech, Finance, Retail, Logistics.
